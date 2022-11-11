@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+beautifulsoup4==4.11.1
+PyYAML==6.0
+requests
+tweepy==4.12.1
